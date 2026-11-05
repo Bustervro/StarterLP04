@@ -178,5 +178,3 @@ This test plan uses only the North Vacation Booking requirements to design black
 **To submit:** Add this Markdown file to a **public** GitHub repository (for example, `StarterLP04`), commit it, and submit that repository URL to Canvas. The requirements do not provide an executable application, so these are expected results rather than observed test executions.
 
 **Source:** `StarterLP04/Readme.md` provided with Learning Practice 4.
-
-**AI-use note:** AI assistance was used to organize the requirements and draft the test tables; review the cases and be prepared to explain them in your own words.
